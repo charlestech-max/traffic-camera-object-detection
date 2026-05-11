@@ -256,4 +256,4 @@ def main():
 
 # Define the command line arguments to input the Hyperparameters - batchsize & Learning Rate
 if __name__ == "__main__":
-    main()
+    main()
