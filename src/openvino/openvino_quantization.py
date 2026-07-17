@@ -292,4 +292,4 @@ if __name__ == "__main__":
         logger.info(f"MeanAP of the quantized model: {next(iter(quantized_metric_results.values())):.5f}")
 
     if original_metric_results:
-        logger.info(f"MeanAP of the original model:  {next(iter(original_metric_results.values())):.5f}")
+        logger.info(f"MeanAP of the original model:  {next(iter(original_metric_results.values())):.5f}")
