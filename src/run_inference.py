@@ -406,4 +406,4 @@ if __name__ == "__main__":
 
     print("\nMean Average Precision for all images is ", mAp)
     print("Batch Size used here is ", batch_size)
-    print("Average Inference Time Taken --> ", (AVG_TIME / COUNT), "for images ::", COUNT)
+    print("Average Inference Time Taken --> ", (AVG_TIME / COUNT), "for images ::", COUNT)
